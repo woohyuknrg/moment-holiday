@@ -4,8 +4,9 @@
 //! license : MIT
 //! https://github.com/kodie/moment-holiday
 
+import moment from "moment";
+
 (function() {
-  var moment = this.moment;
 
   var parserExtensions = [];
 
